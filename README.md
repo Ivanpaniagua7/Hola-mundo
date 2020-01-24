@@ -1,6 +1,7 @@
 # Hola-mundo
 Este es el primer ejemplo
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ________$$$$..
 ______$$$$$$$$$
@@ -31,3 +32,15 @@ _______$$$$$$$$$
 __________$$$$
 =======
 >>>>>>> parent of 3a6c8c2... Monito
+=======
+            _  _
+           (.)(.)
+          /  ()  \
+        _ \ '--' / _
+       { '-`""""`-' }
+        `"/      \"`
+          \      /
+         _/  /\  \_
+        {   /  \   }
+         `"`    `"`
+>>>>>>> parent of e3d34a5... Listo parce, tenga un caballo entonces
