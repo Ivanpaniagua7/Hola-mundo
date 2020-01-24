@@ -3,6 +3,7 @@ Este es el primer ejemplo
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ________$$$$..
 ______$$$$$$$$$
@@ -34,6 +35,8 @@ __________$$$$
 =======
 >>>>>>> parent of 3a6c8c2... Monito
 =======
+=======
+>>>>>>> parent of e3d34a5... Listo parce, tenga un caballo entonces
             _  _
            (.)(.)
           /  ()  \
@@ -44,6 +47,9 @@ __________$$$$
          _/  /\  \_
         {   /  \   }
          `"`    `"`
+<<<<<<< HEAD
 >>>>>>> parent of e3d34a5... Listo parce, tenga un caballo entonces
 =======
 >>>>>>> parent of 3a6c8c2... Monito
+=======
+>>>>>>> parent of e3d34a5... Listo parce, tenga un caballo entonces
